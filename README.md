@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Jack Chen!  
+### 👋 Hey, I'm Jack Chen!  
 
 - **🎓 CS @ NYU Courant** _(AI + Big Data)_  
 - **💻 3x F500 SWE Intern**  
@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 What I’m Building Now  
+### 🚀 What I’m Building Now  
 
 - **🎥 Content @jacko.py** → Helping CS students navigate school and land jobs  
 - **💻 Build With Me** → Teaching college students how to ship cool projects (_One AI project per week_)  
@@ -21,7 +21,16 @@
 
 ---
 
-## 🔥 Previous Work  
+### 🔥 Previous Work  
 
 - **☁️ Enterprise Cloud SWE** → Built **on-prem cloud infrastructure** for **800+ engineering teams**  
 - **🤖 Bring Your Own LLM** → Provision an **enterprise-grade, custom-tailored AI** in **under 1 minute**  
+
+---
+
+### 📬 Get in Touch  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jackziyangchen/)  
+[![X/Twitter](https://img.shields.io/badge/X-%40jackziyangchen-black?style=flat&logo=twitter)](https://twitter.com/jackziyangchen)  
+[![TikTok](https://img.shields.io/badge/TikTok-%40jacko.py-pink?style=flat&logo=tiktok)](https://www.tiktok.com/@jacko.py)  
+[![Instagram](https://img.shields.io/badge/Instagram-%40jacko.py-purple?style=flat&logo=instagram)](https://www.instagram.com/jacko.py) 
