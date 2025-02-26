@@ -1,28 +1,27 @@
-👋 Hey, I'm Jack Chen!
+# 👋 Hey, I'm Jack Chen!  
 
-- 🔹 CS student @ NYU Courant (BA 2025, MS 2026)
-- 🔹 3x F500 Software Engineer
-- 🔹 3x Startup Founder (Stooped, Albuddy, Stealth)
-- 🔹 content creator (@jacko.py on tiktok/instagram)
+- **🎓 CS @ NYU Courant** _(AI + Big Data)_  
+- **💻 3x F500 SWE Intern**  
+- **🚀 3x Startup Founder** _(Stooped, Albuddy, Stealth)_  
+- **🎥 Content Creator** [@jacko.py](https://www.instagram.com/jacko.py/) _(College, CS + AI, Career)_  
 
+📬 **Get in Touch:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jack%20Chen-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jackziyangchen/)  
+[![X/Twitter](https://img.shields.io/badge/X%2FTwitter-%40jackziyangchen-black?style=flat&logo=twitter)](https://twitter.com/jackziyangchen)  
 
-🎯 Get in Touch \
-💼 LinkedIn: linkedin.com/in/jackziyangchen
+> _“Make something people want.”_  
 
+---
 
-“Execution > Ideas. The best way to predict the future is to build it.”
+## 🚀 What I’m Building Now  
 
-<!--
-**JackZiyangChen/JackZiyangChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **🎥 Content @jacko.py** → Helping CS students navigate school and land jobs  
+- **💻 Build With Me** → Teaching college students how to ship cool projects (_One AI project per week_)  
+- **📚 EdTech Startup** → A faster, more flexible way to find academic help  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Previous Work  
+
+- **☁️ Enterprise Cloud SWE** → Built **on-prem cloud infrastructure** for **800+ engineering teams**  
+- **🤖 Bring Your Own LLM** → Provision an **enterprise-grade, custom-tailored AI** in **under 1 minute**  
