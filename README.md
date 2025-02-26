@@ -5,10 +5,6 @@
 - **🚀 3x Startup Founder** _(Stooped, Albuddy, Stealth)_  
 - **🎥 Content Creator** [@jacko.py](https://www.instagram.com/jacko.py/) _(College, CS + AI, Career)_  
 
-📬 **Get in Touch:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jack%20Chen-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jackziyangchen/)  
-[![X/Twitter](https://img.shields.io/badge/X%2FTwitter-%40jackziyangchen-black?style=flat&logo=twitter)](https://twitter.com/jackziyangchen)  
-
 > _“Make something people want.”_  
 
 ---
