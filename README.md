@@ -19,7 +19,7 @@
 ### 🔥 Previous Work  
 
 - **☁️ Enterprise Cloud** → Built **on-prem cloud infrastructure** for **800+ engineering teams**  
-- **🤖 Bring Your Own LLM** → Provision an **enterprise-grade, custom-tailored AI** in **under 1 minute**
+- **🤖 Bring Your Own LLM** → For product teams, provision an **custom-tailored AI Agent** in **under 1 minute**
 - **📚 Lexor Strategies** → Founding Partner. Delivering AI+Tech solutions for companies to grow revenue and operate efficiently  
 
 ---
