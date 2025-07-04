@@ -1,9 +1,9 @@
 ### 👋 Hey, I'm Jack Chen!  
 
+- **🧑‍💻 SWE @ 🤔**
 - **🎓 CS @ NYU Courant** _(AI + Big Data)_
-- **🧑‍💻 Partner @ Lexor Strategies**
-- **💻 3x F500 SWE Intern**  
-- **🚀 3x Startup Founder** _(Stooped, Albuddy, Stealth)_  
+- **💻 3x F500 SWE** 
+- **🚀 4x Founder** _(Stooped, Albuddy, Stealth, Lexor)_  
 - **🎥 Content Creator** [@jacko.py](https://www.instagram.com/jacko.py/) _(College, CS + AI, Career)_  
 
 > _“Make something people want.”_  
@@ -11,16 +11,16 @@
 ---
 
 ### 🚀 What I’m Building Now  
-
+- **👀 Stealth** → Back on the startup grind again. Coming soon.
 - **🎥 Content @jacko.py** → Helping CS students navigate school and land jobs  
-- **📚 Lexor Strategies** → Delivering AI+Tech solutions for companies to grow revenue and operate efficiently
 
 ---
 
 ### 🔥 Previous Work  
 
-- **☁️ Enterprise Cloud SWE** → Built **on-prem cloud infrastructure** for **800+ engineering teams**  
-- **🤖 Bring Your Own LLM** → Provision an **enterprise-grade, custom-tailored AI** in **under 1 minute**  
+- **☁️ Enterprise Cloud** → Built **on-prem cloud infrastructure** for **800+ engineering teams**  
+- **🤖 Bring Your Own LLM** → Provision an **enterprise-grade, custom-tailored AI** in **under 1 minute**
+- **📚 Lexor Strategies** → Founding Partner. Delivering AI+Tech solutions for companies to grow revenue and operate efficiently  
 
 ---
 
