@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Jack Chen!  
 
-- **🧑‍💻 SWE @ 🤔**
+- **🧑‍💻 SWE @ FAANG**
 - **🎓 CS @ NYU Courant** _(AI + Big Data)_
 - **💻 3x F500 SWE** 
 - **🚀 4x Founder** _(Stooped, Albuddy, Stealth, Lexor)_  
