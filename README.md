@@ -4,7 +4,7 @@
 - **🎓 CS @ NYU Courant** _(AI + Big Data)_
 - **💻 3x F500 SWE** 
 - **🚀 4x Founder** _(Stooped, Albuddy, Stealth, Lexor)_  
-- **🎥 Content Creator** [@jacko.py](https://www.instagram.com/jacko.py/) _(College, CS + AI, Career)_  
+- **🎥 Content Creator** [@jacko.py](https://www.instagram.com/jacko.py/) _(CS + AI, Career)_, [@jacks.estate](https://www.instagram.com/jacks.estate/) _(RE Investing)_  
 
 > _“Make something people want.”_  
 
