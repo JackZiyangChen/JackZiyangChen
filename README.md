@@ -1,4 +1,4 @@
-### 👋 Hey, I'm Jack Chen!  
+### 👋 Hey, I'm Jack!  
 
 - **🧑‍💻 SWE @ FAANG**
 - **🎓 CS @ NYU Courant** _(AI + Big Data)_
@@ -10,9 +10,11 @@
 
 ---
 
-### 🚀 What I’m Building Now  
-- **👀 Stealth** → Back on the startup grind again. Coming soon.
-- **🎥 Content @jacko.py** → Helping CS students navigate school and land jobs  
+### 🚀 What I’m Building Now
+
+- **👓 Augmented Reality** → 0-to-1 Consumer AR Product
+- **🎥 Content @jacko.py** → Helping CS students navigate school and land jobs
+- **🏘️ RE Investing & Proptech** → Building up my portfolio through tech-driven strategy
 
 ---
 
