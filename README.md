@@ -26,7 +26,6 @@
 
 ### 📬 Get in Touch  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jackziyangchen/)  
 [![X/Twitter](https://img.shields.io/badge/X-%40jackziyangchen-black?style=flat&logo=twitter)](https://twitter.com/jackziyangchen)  
 [![TikTok](https://img.shields.io/badge/TikTok-%40jacko.py-pink?style=flat&logo=tiktok)](https://www.tiktok.com/@jacko.py)  
 [![Instagram](https://img.shields.io/badge/Instagram-%40jacko.py-purple?style=flat&logo=instagram)](https://www.instagram.com/jacko.py) 
