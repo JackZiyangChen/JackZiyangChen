@@ -4,7 +4,6 @@
 - **🎓 CS @ NYU Courant** _(AI + Big Data)_
 - **💻 3x F500 SWE** 
 - **🚀 4x Founder** _(Stooped, Albuddy, Stealth, Lexor)_  
-- **🎥 Content Creator** [@jacko.py](https://www.instagram.com/jacko.py/) _(CS + AI, Career)_, [@jacks.estate](https://www.instagram.com/jacks.estate/) _(RE Investing)_  
 
 > _“Make something people want.”_  
 
@@ -13,7 +12,6 @@
 ### 🚀 What I’m Building Now
 
 - **👓 Augmented Reality** → 0-to-1 Consumer AR Product
-- **🎥 Content @jacko.py** → Helping CS students navigate school and land jobs
 - **🏘️ RE Investing & Proptech** → Building up my portfolio through tech-driven strategy
 
 ---
@@ -22,7 +20,7 @@
 
 - **☁️ Enterprise Cloud** → Built **on-prem cloud infrastructure** for **800+ engineering teams**  
 - **🤖 Bring Your Own LLM** → For product teams, provision an **custom-tailored AI Agent** in **under 1 minute**
-- **📚 Lexor Strategies** → Founding Partner. Delivering AI+Tech solutions for companies to grow revenue and operate efficiently  
+- **📚 Lexor Strategies** → Founding Partner. Building bespoke AI+Tech solutions for middle market firms.
 
 ---
 
