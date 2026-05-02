@@ -12,7 +12,7 @@
 ### 🚀 What I’m Building Now
 
 - **👓 Augmented Reality** → 0-to-1 Consumer AR Product
-- **🏘️ RE Investing & Proptech** → Building up my portfolio through tech-driven strategy
+- **Multimodal AI on Wearables** → Bringing AI into physical reality
 
 ---
 
