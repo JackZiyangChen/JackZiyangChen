@@ -11,7 +11,7 @@
 
 ### 🚀 What I’m Building Now
 
-- **👓 Augmented Reality** → 0-to-1 Consumer AR Product
+- **Augmented Reality** → 0-to-1 Consumer AR Product
 - **Multimodal AI on Wearables** → Bringing AI into physical reality
 
 ---
