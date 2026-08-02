@@ -1,9 +1,10 @@
 ### 👋 Hey, I'm Jack!  
 
 - **🧑‍💻 SWE @ FAANG**
-- **🎓 CS @ NYU Courant** _(AI + Big Data)_
-- **💻 3x F500 SWE** 
-- **🚀 4x Founder** _(Stooped, Albuddy, Stealth, Lexor)_  
+- **Previously I was...**
+  - **🎓 CS @ NYU Courant** _(AI + Big Data)_
+  - **💻 3x F500 SWE** 
+  - **🚀 4x Founder** _(Stooped, Albuddy, Stealth, Lexor)_  
 
 > _“Make something people want.”_  
 
